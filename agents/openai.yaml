@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片转复古颗粒矢量插画"
+  short_description: "把照片重绘为复古喷枪颗粒插画，交付底色与颗粒可独立换色的 SVG"
+  default_prompt: "用 $photo-to-vector-stipple 把上传的照片重绘为复古颗粒插画并交付分层 SVG。"
